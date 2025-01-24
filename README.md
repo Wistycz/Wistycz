@@ -13,7 +13,7 @@
 
 ### 📂 Highlighted Repositories:
 - 🕒 [**TimeSeries**](https://github.com/Wistycz/timeseries): Time Series Forecasting and Analysis  
-- 🎓 [**MITxPRO Training**](https://github.com/Wistycz/MITxPRO-Final): Final projects and assignments from MIT's Data Engineering program  
+- 🎓 [**MITxPRO Training**](https://github.com/Wistycz/MO-PCDE_M9_final_assignment): Final projects and assignments from MIT's Data Engineering program  
 
 ### 🌟 About Me:
 - Passionate about turning complex datasets into actionable insights  
